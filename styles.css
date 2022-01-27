@@ -1,0 +1,211 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-Bold";
+  }
+  .container1{
+    
+    padding-top: 0.5rem;
+    padding-left: 7rem;
+    padding-right: 7REM;
+    
+  }
+
+/* Navigation Bar */
+#logo{
+  padding-top: 0%;
+  width: 20rem;
+  height: 50px;
+  padding-bottom: 0.5rem;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+  
+  }
+  
+  .navbar-brand {
+    font-family: "Poppins";
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    
+    font-size: 1.2rem;
+    font-family: "Poppins";
+  }
+  #title {
+
+    background-color:black;
+    color: #fff;
+    text-align: center;
+    
+    height: 70px;
+  }
+  
+ /*skill section*/
+ #skills{
+    padding-top: 20px;
+    padding-bottom: 25px;
+    background-color: rgb(253, 255, 255);
+    
+
+    
+    
+  }
+  h1.hi{
+    padding-top: 8px;
+    font-family: 'Poppins';
+    
+    font-size: 2.1rem;
+    line-height: 1.4em;
+    font-weight: 400;
+    opacity: .8;
+  }
+  
+  .skill-title {
+    font-size: 1.5rem;
+    
+    
+  }
+  .skill-ti{
+    color:#fff;
+  }
+  
+  .skill-box {
+    padding: 4%;
+  }
+  
+  .icon{
+    height: 130px;
+    width: 150px;
+  }
+
+  .pro{
+    height: 130px;
+    width: 150px;
+      padding-top: 2rem;
+  }
+  
+  /*projects Section*/
+    #projects{
+      background-color: #fff;
+      
+    }
+    .pro-title{
+      color: #26a8ed !important;
+    box-shadow: inset 0 -3px 0 #26a8ed1f;
+      font-family: 'Poppins';
+    }
+    .pro-name{
+      text-align: left;
+    }
+    .project-s{
+      margin-top: 20px;
+      margin-left: 424px;
+      width: 650px;
+      text-align: center;
+    }
+/*index*/
+  #profileImage{
+      border-radius: 50%;
+      height: 230px;
+    padding-bottom: 10px;
+  }
+  h1#hi{
+      font-family: 'Poppins';
+      color: #fff;
+  }
+  .MyBio{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: #fff;
+      
+  }
+
+  
+
+
+
+
+
+
+  #profile{
+    
+      padding: 3rem;
+      background-color: black;
+      padding-bottom: 15rem;
+      padding-top: 8rem;
+  }
+
+  /*Footer*/
+  .ml-md-4, .mx-md-4 {
+    margin-left: 1.5rem !important;
+}
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+  font-family: 'Poppins';
+}
+.fut{
+  font-family: 'Poppins';
+}
+footer {
+    
+  background-color: #fff;
+ padding: 2REM;
+ color: black;
+ text-align: center;
+ font-family: sans-serif;
+}
+
+.fut-link{
+  color: rgb(37, 31, 31);
+  font-size: 18px;
+  font-family: 'Poppins',Arial, sans-serif;
+  margin: 0px 0px 24px;
+}
+.other-fut{
+  color:rgb(253, 255, 255);
+  font-size: 18px;
+  font-family: 'Poppins',Arial, sans-serif;
+  margin: 0px 0px 24px;
+}
+
+/*contact*/
+.contact-title{
+  font-size: 18px;
+  font-family: 'Poppins',Arial, sans-serif;
+  margin: 0px 0px 24px;
+}
+.contact-p{
+  font-size: 18px;
+  font-family: 'Poppins',Arial, sans-serif;
+  color: #999999;
+}
+.contact-icon{
+  height: 120px;
+  width: 140px;
+  padding-bottom: 2px;
+}
+
+/* About*/
+.about-p{
+
+  font-size: 18px;
+  font-family: 'Poppins';
+  margin: 0px 0px 16px;
+  color:black;
+}
+#about-s{
+  margin-top: 20px;
+  margin-left: 424px;
+  width: 650px;
+  text-align: center;
+}
